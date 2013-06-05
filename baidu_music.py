@@ -466,7 +466,7 @@ class BaiduMusic():
 
 def main():
     baidu_music = BaiduMusic()
-    baidu_music.invoke_command(u"-s all -d music -i 1 -u 楚天遥 -p cty421rzf")
+    baidu_music.invoke_command(u"-s all -d music -i 1 -u **** -p ******")
 
 if __name__ == '__main__':
     main()
